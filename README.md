@@ -2,6 +2,10 @@
 
 Autosnipper is a small desktop utility for taking repeated screenshots from the same fixed region without reopening a snipping tool every time. It is designed for workflows where you need to capture many similar images in sequence, such as collecting screenshots from lessons, PDFs, demos, or scrolling content.
 
+## Screenshot
+
+![Autosnipper Screenshot](./app_screenshot.png)
+
 ## What problem it solves
 
 When you are taking many screenshots from the same source, the slow part is usually repeating the same crop action again and again. Autosnipper removes that repetition by:

@@ -1,0 +1,13 @@
+# Runtime dependencies for autosnipper.py
+#
+# Standard library modules used by the project and therefore not listed here:
+# - tkinter
+# - time
+# - os
+# - sys
+#
+# Install with:
+# pip install -r requirements.txt
+
+pyautogui
+pyperclip
